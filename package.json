@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/psicologia-carrera",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a psicologia-carrera",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/psicologia-carrera.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/psicologia-carrera/"
+    },
+    "homepage": "https://www.logicfen.org/blog/psicologia-carrera/"
+}
